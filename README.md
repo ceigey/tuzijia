@@ -1,9 +1,13 @@
 # Tùzijiā
 
+
+A bunch of reusable libraries I'm writing in Lua when using [Usagi](https://usagiengine.com/).
+
 > [!TIP]
 > 兔子家: tùzijiā, /TOo-dzeu-JYA/ "Rabbit House/Family" 🐰🏠
 
-A bunch of reusable libraries I'm writing in Lua when using [Usagi](https://usagiengine.com/).
+> [!WARNING]
+> Currently v0, expect breaking changes!
 
 ## Compatibility
 
