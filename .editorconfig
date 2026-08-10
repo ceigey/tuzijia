@@ -1,0 +1,7 @@
+# I recommend copying this into any projects using Zed,
+# since the default Lua LSP seems to like 4-space tabs
+# which conflict with the Usagi default config.
+
+[*.lua]
+indent_style = space
+indent_size = 2
