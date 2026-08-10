@@ -1,7 +1,7 @@
 # Tùzijiā
 
 > [!TIP]
-> 兔子家: tùzijiā, "Rabbit House/Family" 🐰🏠
+> 兔子家: tùzijiā, /TOo-dzeu-JYA/ "Rabbit House/Family" 🐰🏠
 
 A bunch of reusable libraries I'm writing in Lua when using [Usagi](https://usagiengine.com/).
 
